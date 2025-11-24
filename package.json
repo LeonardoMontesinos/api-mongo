@@ -1,0 +1,10 @@
+{
+  "name": "mongo-twitter-api",
+  "version": "1.0.0",
+  "description": "API para Laboratorio 14 UTEC",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^6.3.0"
+  }
+}
